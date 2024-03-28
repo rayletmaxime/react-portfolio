@@ -3,7 +3,6 @@ import "./Hero.css";
 import linkedin from "../../assets/svgs/linkedin.svg";
 import github from "../../assets/svgs/github.svg";
 import mcr from "../../assets/max.webp";
-import cv from "../../assets/cv.pdf";
 
 export default function Hero() {
   return (
@@ -30,7 +29,7 @@ export default function Hero() {
           <img src={mcr} alt="Photo de Maxime Raylet" width={400} />
           <div className="hero-right-btn">
             <button>
-              <a href={cv} target="_blank">
+              <a href="#" target="_blank">
                 <p>CV</p>
               </a>
             </button>
