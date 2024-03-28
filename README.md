@@ -4,7 +4,7 @@
 
 👋 I present my portfolio built with React.
 
-🎯 Overall score of 94/100 on Lighthouse, taking into account performance, accessibility, SEO and practicality.
+🎯 Overall score of 96/100 on Lighthouse, taking into account performance, accessibility, SEO and practicality.
 
 It will be updated as projects are built and my experiences are shared. Please take an interest and give me your feedback on any platform so I can improve! 🙏
 
